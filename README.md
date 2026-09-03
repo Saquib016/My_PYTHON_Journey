@@ -48,14 +48,18 @@ Welcome to my Python learning repository! This project tracks my progress as I m
 ```text
 My_PYTHON_Journey/
 │
-├── 01_basics/            # Variables, loops, basic functions
-├── 02_intermediate/      # Lists, dicts, file handling, modules
-├── 03_oop/               # Classes, inheritance, OOP projects
-├── 04_data_analysis/     # NumPy, Pandas notebooks & scripts
-├── 05_visualization/     # Matplotlib & Seaborn plotting scripts
-├── data/                 # Sample datasets (.csv, .xlsx)
-├── README.md             # This roadmap and guide
-└── requirements.txt      # Required libraries
+├── 01_basics/                                       # Variables, loops, basic functions
+├── 02_intermediate/                                 # Lists, dicts, file handling, modules
+├── 03_oops part-1/                                  # Classes, inheritance, OOP projects
+├── 04_oops part-2/                                  # 4 Pillers
+├── 05_Exceptional_handling/                         # Matplotlib & Seaborn plotting scripts
+├── 06_File I/O/                                     # File Input-Output
+├── Numpy/
+├── Pandas/
+├── Data_collection-(Web_Scraping, BeautifulSoup)/   # Collection of Data From different Sources using WebScraping and BeautifulSoup
+├── Data_Visualization(Matplot_lib, Seaborn)/        # Plotting Graph
+├── Other Important Concepts            
+└── README.md                                        # This roadmap and guide
 ```
 
 ---
